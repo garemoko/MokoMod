@@ -1,0 +1,14 @@
+name: MokoMod
+main: io.github.garemoko.MokoMod.MokoMod
+version: 20140501001
+
+depend:
+  - Citizens
+  - Sentry
+
+commands:
+   moko:
+      description: This is a demo command.
+      usage: /moko hello
+      permission: MokoMod.basic
+      permission-message: You don't have <permission>

@@ -1,0 +1,8 @@
+helptext:
+  - COMMANDS
+  - /hello - a test command
+  - /castle - commands relating to setting up castles
+  
+helptext-castle:
+  - CASTLE COMMANDS
+  - /set - creates a castle at the players current location
